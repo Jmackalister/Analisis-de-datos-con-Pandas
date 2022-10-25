@@ -1,2 +1,2 @@
-# Analisis-de-datos-con-Pandas
-Curso en platzi sobre analisis de datos con Pandas
+# Manipulación de datos con Pandas y Numpy
+Curso en platzi sobre la manipulación de datos con Pandas y numpy
